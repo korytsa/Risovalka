@@ -8,7 +8,7 @@ const state = {
 let current = document.querySelector('.current');
 let previous = document.querySelector('.previous');
 let item = document.querySelector('.item');
-
+let item_2 = document.querySelector('#item_2');
 
 //выбор цвета + текущий/предыдущий
 const paint = document.querySelector('.colors');
